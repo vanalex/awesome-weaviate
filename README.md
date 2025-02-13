@@ -73,6 +73,7 @@
   * [Weaviate @ FOSDEM 2020](https://www.youtube.com/watch?v=3NfcAF4qm2k)
   * [Weaviate @ Google Cloud's Stackchat](https://www.youtube.com/watch?v=SOUtWj2szOM)
   * [Weaviate @ FOSDEM 2019](https://www.youtube.com/watch?v=hm9ibPZOUcw)
+  * [Weaviate @ Data Science Dojo](https://www.youtube.com/watch?v=IGIJenfP5h4)
 
 
 * ### [Interviews](#interviews)
